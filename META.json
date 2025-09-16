@@ -1,0 +1,61 @@
+{
+  "category": "search-engines",
+  "created_date": "2025-09-15T22:48:58.122064",
+  "default_ports": [
+    80,
+    443,
+    9306
+  ],
+  "dependencies": [],
+  "description": "manticore is a free and open-source database for search. Manticore provides fast database for search with SQL support",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/search-engines/manticore",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/search-engines/manticore",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.122083",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "manticore",
+  "repository_url": "https://github.com/howtomgr/manticore",
+  "spec_version": "2.0",
+  "subcategory": "search-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "search-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "manticore Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/search-engines/manticore"
+}
